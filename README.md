@@ -39,13 +39,13 @@ TerMan supports the following commands:
 - Clone the repository:
 
 ```bash
-git clone https://github.com/e3nviction/terman.git
+git clone https://github.com/e3nviction/TerMan.git
 ```
 
 - Navigate to the project directory:
 
 ```bash
-cd terman
+cd TerMan
 ```
 
 - Install the required dependencies:
