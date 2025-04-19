@@ -1,0 +1,20 @@
+#tree {
+    width: 25;
+	dock: left;
+	border-right: vkey #333;
+}
+
+#cmd {
+	dock: bottom;
+	border: none;
+	height: 1;
+}
+
+#text {
+	border: none;
+	scrollbar-size: 1 1;
+}
+
+#text:focus {
+	border: none;
+}
